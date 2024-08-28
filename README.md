@@ -1,1 +1,1 @@
-Exercises and final VBA assignment (finalProject file) being a part of the University of Lodz VBA Programing course
+Exercises and final VBA assignment (projectFinal file - Crypto Wallet) being a part of the University of Lodz VBA Programing course
